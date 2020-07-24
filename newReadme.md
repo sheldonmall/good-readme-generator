@@ -1,19 +1,37 @@
 
   # Project Title
-  Read me 
+
+  README.md generator 
+
     ## Description
-    sadfasdfsad
+    dfgsdfgsgsdfg
+
+    ## Table of Contents
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [Credits](#credits)
+    * [License](#license)
+    
     ## Installation
-    asdfsadf
+    sdfgsdgsdfg
+
     ## Usage
-    asdfasdf
+    sdgsdfgsdgf
+
     ## Credits
-    asdfasdf
+    sdfgsdfgsdfg
+
     ## License
-    sadfasfd
+    sdfgsdfgsdg
+
+    ## Badges
+    ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+
     ## Contributuing
-    sadfasdf
+    sdfgsdgsdg
+
     ## Testing
-    sadfasdf
+    sdfgsdgsdg
+
     ## Questions
-    sadfsadf  
+    sdfgsdfgd  
