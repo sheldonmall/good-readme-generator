@@ -1,5 +1,5 @@
 var inquirer = require("inquirer");
-var generateMarkdown = require("../utils/generateMarkdown");
+var generateMarkdown = require("./generateMarkdown");
 var fs = require("fs");
 
 var questionArr1 = [

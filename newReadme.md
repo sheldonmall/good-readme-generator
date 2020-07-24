@@ -1,19 +1,19 @@
 
   # Project Title
-  Good Readme generator 
+  Read me 
     ## Description
-    This project is developed using nodejs to develop a good readme with all the required sections.
+    sadfasdfsad
     ## Installation
-    There are no installation instructions. Copy the code in a folder and execute using cmd prompt as $node script.js <press enter>
+    asdfsadf
     ## Usage
-    follow the command given above
+    asdfasdf
     ## Credits
-    I developed this myself
+    asdfasdf
     ## License
-    None
+    sadfasfd
     ## Contributuing
-    Please let me know what belse can be done to improve this project.
+    sadfasdf
     ## Testing
-    Test by leaving 
+    sadfasdf
     ## Questions
-    sheldon 416  
+    sadfsadf  
