@@ -10,25 +10,30 @@ There are no specific steps to install this website, nor are there any installab
 
 ## Usage 
 
-This website is for a good readme generator. The usage of this tool is described below:
+This application is for a good readme generator. The usage of this tool is described below:
 
-* Go to the command prompt $ on your computer and type the following command to execute the program:
+*Go to the command prompt $ on your computer and type the following command to execute the program:
 - `$node index.js` and hit the enter key.
  
-The application will show questions works as given below:
+The application will show questions as given below and prompt you to enter a response for each of these sections of a good README:  
 
-* One by one, it will prompt you to enter a response to the following questions of a :  
-- Click on the `Add` button to save the task. 
+* Title
+* Description
+* Table of Contents
+* Installation
+* Usage
+* License
+* Contributing
+* Tests
+* Questions
 
 My Task list for developing this good readme generator:
 
-[x] Building the page
+[x] Building the js code
 
-[ ] Display today's date and time
+[x] Building the .md display format 
 
-[ ] Display previously saved tasks in their respective time slot.
-
-[ ] Code and test the `Add` button.
+[x] Testing and refining the formatting.
 
 [ ] User feedback 
 
@@ -37,19 +42,17 @@ My Task list for developing this good readme generator:
 
 There are no contributors to this project.
 
-I have referred to w3schools.com for help with syntax for some functions and have referred to code to from previous activities in module 5.
+I have referred to Mastering Markdown guide on GitLab and also used guidance from my tutor Jason, as well as from my TA Daniel.
 
 
 ## License
 
-There is no need for any license at the moment to use my website.
+There is no need for any license at the moment to use my application.
 
 ---
 
 ## Tests
 
-My website is simple to use. 
-
-The website is not fully working as I am not able to complete it. First, I struggled to display the HTML page, then displaying saved tasks from the local storage. 
+My application is simple to use. Please test it by entering your information, as if you are actually creating a README.md for your project.
 
 I will continue to debug the issue to make the code work after this assignment is submitted.
