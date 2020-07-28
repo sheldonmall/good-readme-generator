@@ -1,5 +1,5 @@
 var inquirer = require("inquirer");
-var generateMarkdown = require("./generateMarkdown");
+var generateMarkdown = require("./utils/generateMarkdown");
 var fs = require("fs");
 
 var questionArr1 = [
@@ -57,7 +57,6 @@ var myFilename = "newREADME.md";
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, function (err) {
     if (err) throw err;
-    // console.log("success");
   });
 }
 

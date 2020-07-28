@@ -1,9 +1,11 @@
-
+// function to generate markdown for README
+function generateMarkdown(data) {
+  return `
 # Project Title
-Good README Generator 
+${data.title} 
 
 ## Description
-This project is to develop a good readme.md generator. It is expected to make life easy by automating the readme creation and do all the markdown styling as well.
+${data.description}
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,25 +14,29 @@ This project is to develop a good readme.md generator. It is expected to make li
 * [License](#license)
   
 ## Installation
-No installation instructions
+${data.installation}
 
 ## Usage
-Execute by $node.index.js
+${data.usage}
 
 ## Credits
-No credits are due
+${data.credits}
 
 ## License
-No license
+${data.license}
 
 ## Badges
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
 ## Contributuing
-Please contribute
+${data.contributing}
 
 ## Testing
-Test it please
+${data.testing}
 
 ## Questions
-sheldonmall@hotmail.com  
+${data.questions}  
+`;
+}
+
+module.exports = generateMarkdown;
